@@ -42,6 +42,13 @@
       padding: 20px;
       background: linear-gradient(90deg, rgba(187,219,226,1) 0%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
   }
+  .logo {
+    height: 8vh;
+  }
+
+ .col {
+     padding: 20px;
+ }
 
   
  
