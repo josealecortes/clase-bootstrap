@@ -56,6 +56,8 @@
  .imagenes {
      width: 200px;
      text-align: center;
+     justify-content: center;
+     justify-items: center;
  }
  .navbar {
     background: linear-gradient(90deg, rgba(187,219,226,1) 0%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
